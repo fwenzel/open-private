@@ -9,6 +9,7 @@ on a link and select "Open in Private Browsing mode", and Firefox will switch
 to Private Browsing and automatically open the link you selected.
 
 What is this useful for?
+
 * You click around Amazon, and suddenly you see an item that you think would
   make a great gift for your partner, who uses the same computer.
 * You encounter an ad for a really silly item that you really want to check
