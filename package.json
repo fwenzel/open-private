@@ -4,6 +4,6 @@
   "description": "Right-click on a link to instantly open it in Private Browsing mode.",
   "author": "Fred Wenzel <fwenzel@mozilla.com>",
   "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
-  "version": "0.1",
+  "version": "0.1.1",
   "id": "jid1-0FHdJAAQ7Nb73Q"
 }
